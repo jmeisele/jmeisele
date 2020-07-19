@@ -1,7 +1,7 @@
 ### Hi there I'm Jason :robot: :coffee: :computer: :tada:
 
 
-I'm a machine learning engineer based in Birmingham, Al.
+I'm a machine learning engineer based in Birmingham, AL, USA.
 <hr>
 
 ### 🌱 I’m currently learning
