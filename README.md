@@ -2,11 +2,14 @@
 
 
 I'm a machine learning engineer based in Birmingham, Al.
+<hr>
 
---------------------------
+### 🌱 I’m currently learning
 
+- [GraphQL](https://graphql.org/)
+<hr>
 
-- :construction:  I build with:
+### 🚧 I build with...
 <p align="center">
     <a href="https://www.python.org/">
       <img src="./svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -40,14 +43,14 @@ I'm a machine learning engineer based in Birmingham, Al.
     </a>
 </p>
 
---------------------------
+<hr>
 
-- 📫 Reach me at : 
+### 📢 Find me elsewhere
 <p align="center">
   <a href="https://www.linkedin.com/in/data-jason/">
     <img src="./svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 </p>
+<hr>
 
--------------------------
 ![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jmeisele&show_icons=true&theme=dark)
