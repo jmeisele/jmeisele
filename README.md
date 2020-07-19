@@ -27,7 +27,7 @@ I'm a machine learning engineer based in Birmingham, Al.
       <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/services/aws.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>
     <a href="https://www.gnu.org/software/bash/">
-      <img src="./svg/dev/tools/bash.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/tools/bash.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>
     <a href="https://code.visualstudio.com/">
       <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
