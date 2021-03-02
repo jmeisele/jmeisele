@@ -14,12 +14,12 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
     <a href="https://www.python.org/">
       <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<!--     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
       <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    </a>
+    </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>
