@@ -6,7 +6,7 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 
 ### 🌱 I’m currently learning
 
-- [GoLang](https://golang.org/)
+- [React](https://reactjs.org/)
 <hr>
 
 ### 🚧 I build with...
