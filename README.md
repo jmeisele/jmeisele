@@ -12,34 +12,31 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### 🚧 I build with...
 <p align="center">
     <a href="https://www.python.org/">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+      <img src="https://badges.aleen42.com/src/python.svg">
     </a>
-<!--     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    </a> -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+      <img src="https://badges.aleen42.com/src/javascript.svg">
     </a>
-    <a href="https://aws.amazon.com/">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/services/aws.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    </a>
-    <a href="https://www.gnu.org/software/bash/">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/tools/bash.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <a href="https://reactjs.org/">
+      <img src="https://badges.aleen42.com/src/react.svg">
     </a>
     <a href="https://code.visualstudio.com/">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+      <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
     </a>
     <a href="https://www.docker.com/">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/services/dockerhub.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+      <img src="https://badges.aleen42.com/src/docker.svg">
     </a>
-    <a href="https://kubernetes.io/">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/dev/services/kubernetes.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <a href="https://www.elastic.co/">
+        <img src="https://badges.aleen42.com/src/elasticsearch.svg"
     </a>
-    <a href="https://www.raspberrypi.org/">
-      <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/devices/raspberrypi.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <a href="https://www.elastic.co/kibana/">
+        <img src="https://badges.aleen42.com/src/kibana.svg"
+    </a>
+    <a href="https://www.elastic.co/logstash/">
+        <img src="https://badges.aleen42.com/src/logstash.svg"
+    </a>
+    <a href="https://grafana.com/">
+        <img src="https://badges.aleen42.com/src/grafana.svg"
     </a>
 </p>
 
