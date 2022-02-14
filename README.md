@@ -48,8 +48,14 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 
 ### 📢 Find me elsewhere
 <p align="center">
-  <a href="https://www.linkedin.com/in/data-jason/">
-    <img src="https://raw.githubusercontent.com/jmeisele/jmeisele/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <a href="https://discord.com/">
+    <img src="https://badges.aleen42.com/src/discord.svg">
+  </a>
+  <a href="https://slack.com/">
+    <img src="https://badges.aleen42.com/src/slack.svg">
+  </a>
+  <a href="https://store.steampowered.com/">
+    <img src="https://badges.aleen42.com/src/steam.svg">
   </a>  
 </p>
 <hr>
