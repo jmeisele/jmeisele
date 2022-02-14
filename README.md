@@ -57,10 +57,12 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jrxcsv43ijrxtsmkba2gst4su4&cover_image=true&theme=novatorem&bar_color=4b7dbe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<!-- ![Jason's github stats](https://github-readme-stats.vercel.app/api?username=jmeisele&show_icons=true&theme=dark) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmeisele&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmeisele&hide=jupyter%20notebook,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmeisele&count_private=true&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jmeisele&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmeisele&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jmeisele&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
