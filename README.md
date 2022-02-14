@@ -5,8 +5,12 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 <hr>
 
 ### 🌱 I’m currently learning
+<p align="center">
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://badges.aleen42.com/src/typescript.svg">
+    </a>
+</p>
 
-- [React](https://reactjs.org/)
 <hr>
 
 ### 🚧 I build with...
