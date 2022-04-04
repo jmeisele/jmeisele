@@ -81,3 +81,9 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#27](https://github.com/Arize-ai/client_python/pull/27) in [Arize-ai/client_python](https://github.com/Arize-ai/client_python)
+2. 🗣 Commented on [#86](https://github.com/shipt/py-volley/issues/86) in [shipt/py-volley](https://github.com/shipt/py-volley)
+3. 🎉 Merged PR [#13](https://github.com/jmeisele/celery-farm/pull/13) in [jmeisele/celery-farm](https://github.com/jmeisele/celery-farm)
+4. 💪 Opened PR [#13](https://github.com/jmeisele/celery-farm/pull/13) in [jmeisele/celery-farm](https://github.com/jmeisele/celery-farm)
+5. 🎉 Merged PR [#12](https://github.com/jmeisele/celery-farm/pull/12) in [jmeisele/celery-farm](https://github.com/jmeisele/celery-farm)
+<!--END_SECTION:activity-->
