@@ -81,9 +81,9 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](https://github.com/shipt/py-volley/pull/91) in [shipt/py-volley](https://github.com/shipt/py-volley)
-2. 💪 Opened PR [#27](https://github.com/Arize-ai/client_python/pull/27) in [Arize-ai/client_python](https://github.com/Arize-ai/client_python)
-3. 🗣 Commented on [#86](https://github.com/shipt/py-volley/issues/86) in [shipt/py-volley](https://github.com/shipt/py-volley)
-4. 🎉 Merged PR [#13](https://github.com/jmeisele/celery-farm/pull/13) in [jmeisele/celery-farm](https://github.com/jmeisele/celery-farm)
-5. 💪 Opened PR [#13](https://github.com/jmeisele/celery-farm/pull/13) in [jmeisele/celery-farm](https://github.com/jmeisele/celery-farm)
+1. ❌ Closed PR [#91](https://github.com/shipt/py-volley/pull/91) in [shipt/py-volley](https://github.com/shipt/py-volley)
+2. 🗣 Commented on [#91](https://github.com/shipt/py-volley/issues/91) in [shipt/py-volley](https://github.com/shipt/py-volley)
+3. 💪 Opened PR [#91](https://github.com/shipt/py-volley/pull/91) in [shipt/py-volley](https://github.com/shipt/py-volley)
+4. 💪 Opened PR [#27](https://github.com/Arize-ai/client_python/pull/27) in [Arize-ai/client_python](https://github.com/Arize-ai/client_python)
+5. 🗣 Commented on [#86](https://github.com/shipt/py-volley/issues/86) in [shipt/py-volley](https://github.com/shipt/py-volley)
 <!--END_SECTION:activity-->
