@@ -7,8 +7,8 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### 🌱 I’m currently learning
 
 <p align="center">
-    <a href="https://www.typescriptlang.org/">
-      <img src="https://badges.aleen42.com/src/typescript.svg">
+    <a href="https://go.dev/">
+      <img src="https://badges.aleen42.com/src/golang.svg">
     </a>
 </p>
 
