@@ -81,9 +81,9 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#44](https://github.com/jmeisele/ml-ops/issues/44) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
-2. ❗️ Opened issue [#55](https://github.com/jmeisele/ml-ops/issues/55) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
-3. 🎉 Merged PR [#46](https://github.com/jmeisele/ml-ops/pull/46) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
-4. 🎉 Merged PR [#53](https://github.com/jmeisele/ml-ops/pull/53) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
-5. 🎉 Merged PR [#6](https://github.com/jmeisele/ml-ops-kafka/pull/6) in [jmeisele/ml-ops-kafka](https://github.com/jmeisele/ml-ops-kafka)
+1. 🎉 Merged PR [#56](https://github.com/jmeisele/ml-ops/pull/56) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+2. 💪 Opened PR [#56](https://github.com/jmeisele/ml-ops/pull/56) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+3. ❗️ Closed issue [#44](https://github.com/jmeisele/ml-ops/issues/44) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+4. ❗️ Opened issue [#55](https://github.com/jmeisele/ml-ops/issues/55) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+5. 🎉 Merged PR [#46](https://github.com/jmeisele/ml-ops/pull/46) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
 <!--END_SECTION:activity-->
