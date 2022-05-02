@@ -81,9 +81,9 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/jmeisele/website/pull/3) in [jmeisele/website](https://github.com/jmeisele/website)
-2. 💪 Opened PR [#3](https://github.com/jmeisele/website/pull/3) in [jmeisele/website](https://github.com/jmeisele/website)
-3. 🎉 Merged PR [#2](https://github.com/jmeisele/website/pull/2) in [jmeisele/website](https://github.com/jmeisele/website)
-4. 💪 Opened PR [#2](https://github.com/jmeisele/website/pull/2) in [jmeisele/website](https://github.com/jmeisele/website)
-5. 🎉 Merged PR [#1](https://github.com/jmeisele/website/pull/1) in [jmeisele/website](https://github.com/jmeisele/website)
+1. 💪 Opened PR [#3](https://github.com/jmeisele/practical_go/pull/3) in [jmeisele/practical_go](https://github.com/jmeisele/practical_go)
+2. ❌ Closed PR [#2](https://github.com/jmeisele/practical_go/pull/2) in [jmeisele/practical_go](https://github.com/jmeisele/practical_go)
+3. 💪 Opened PR [#2](https://github.com/jmeisele/practical_go/pull/2) in [jmeisele/practical_go](https://github.com/jmeisele/practical_go)
+4. ❌ Closed PR [#1](https://github.com/jmeisele/practical_go/pull/1) in [jmeisele/practical_go](https://github.com/jmeisele/practical_go)
+5. 💪 Opened PR [#1](https://github.com/jmeisele/practical_go/pull/1) in [jmeisele/practical_go](https://github.com/jmeisele/practical_go)
 <!--END_SECTION:activity-->
