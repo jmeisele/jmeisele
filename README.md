@@ -81,9 +81,9 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/jmeisele/now-we-feast/pull/6) in [jmeisele/now-we-feast](https://github.com/jmeisele/now-we-feast)
-2. 💪 Opened PR [#6](https://github.com/jmeisele/now-we-feast/pull/6) in [jmeisele/now-we-feast](https://github.com/jmeisele/now-we-feast)
-3. 🎉 Merged PR [#5](https://github.com/jmeisele/now-we-feast/pull/5) in [jmeisele/now-we-feast](https://github.com/jmeisele/now-we-feast)
-4. 💪 Opened PR [#5](https://github.com/jmeisele/now-we-feast/pull/5) in [jmeisele/now-we-feast](https://github.com/jmeisele/now-we-feast)
-5. 🎉 Merged PR [#4](https://github.com/jmeisele/now-we-feast/pull/4) in [jmeisele/now-we-feast](https://github.com/jmeisele/now-we-feast)
+1. 🎉 Merged PR [#1](https://github.com/jmeisele/golang_gorm/pull/1) in [jmeisele/golang_gorm](https://github.com/jmeisele/golang_gorm)
+2. 💪 Opened PR [#1](https://github.com/jmeisele/golang_gorm/pull/1) in [jmeisele/golang_gorm](https://github.com/jmeisele/golang_gorm)
+3. 🎉 Merged PR [#6](https://github.com/jmeisele/now-we-feast/pull/6) in [jmeisele/now-we-feast](https://github.com/jmeisele/now-we-feast)
+4. 💪 Opened PR [#6](https://github.com/jmeisele/now-we-feast/pull/6) in [jmeisele/now-we-feast](https://github.com/jmeisele/now-we-feast)
+5. 🎉 Merged PR [#5](https://github.com/jmeisele/now-we-feast/pull/5) in [jmeisele/now-we-feast](https://github.com/jmeisele/now-we-feast)
 <!--END_SECTION:activity-->
