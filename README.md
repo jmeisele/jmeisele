@@ -81,9 +81,9 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/jmeisele/golang_gorm/pull/3) in [jmeisele/golang_gorm](https://github.com/jmeisele/golang_gorm)
-2. 💪 Opened PR [#3](https://github.com/jmeisele/golang_gorm/pull/3) in [jmeisele/golang_gorm](https://github.com/jmeisele/golang_gorm)
-3. 🎉 Merged PR [#2](https://github.com/jmeisele/golang_gorm/pull/2) in [jmeisele/golang_gorm](https://github.com/jmeisele/golang_gorm)
-4. 💪 Opened PR [#2](https://github.com/jmeisele/golang_gorm/pull/2) in [jmeisele/golang_gorm](https://github.com/jmeisele/golang_gorm)
-5. 🎉 Merged PR [#1](https://github.com/jmeisele/golang_gorm/pull/1) in [jmeisele/golang_gorm](https://github.com/jmeisele/golang_gorm)
+1. 🎉 Merged PR [#54](https://github.com/jmeisele/ml-ops/pull/54) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+2. 🎉 Merged PR [#52](https://github.com/jmeisele/ml-ops/pull/52) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+3. 🎉 Merged PR [#51](https://github.com/jmeisele/ml-ops/pull/51) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+4. 🎉 Merged PR [#49](https://github.com/jmeisele/ml-ops/pull/49) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+5. 🎉 Merged PR [#40](https://github.com/jmeisele/ml-ops/pull/40) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
 <!--END_SECTION:activity-->
