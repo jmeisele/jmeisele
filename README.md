@@ -81,9 +81,9 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/62) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
-2. 🎉 Merged PR [#54](https://github.com/jmeisele/ml-ops/pull/54) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
-3. 🎉 Merged PR [#52](https://github.com/jmeisele/ml-ops/pull/52) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
-4. 🎉 Merged PR [#51](https://github.com/jmeisele/ml-ops/pull/51) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
-5. 🎉 Merged PR [#49](https://github.com/jmeisele/ml-ops/pull/49) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+1. ❗️ Closed issue [#62](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/62) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
+2. ❗️ Opened issue [#62](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/62) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
+3. 🎉 Merged PR [#54](https://github.com/jmeisele/ml-ops/pull/54) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+4. 🎉 Merged PR [#52](https://github.com/jmeisele/ml-ops/pull/52) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+5. 🎉 Merged PR [#51](https://github.com/jmeisele/ml-ops/pull/51) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
 <!--END_SECTION:activity-->
