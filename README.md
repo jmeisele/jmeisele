@@ -81,9 +81,9 @@ I'm a machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/jmeisele/fastapi-ml-scaffolding/pull/14) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
-2. 🎉 Merged PR [#13](https://github.com/jmeisele/fastapi-ml-scaffolding/pull/13) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
-3. ❗️ Closed issue [#62](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/62) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
-4. ❗️ Opened issue [#62](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/62) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
-5. 🎉 Merged PR [#54](https://github.com/jmeisele/ml-ops/pull/54) in [jmeisele/ml-ops](https://github.com/jmeisele/ml-ops)
+1. 🎉 Merged PR [#20](https://github.com/jmeisele/fastapi-ml-scaffolding/pull/20) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
+2. 💪 Opened PR [#20](https://github.com/jmeisele/fastapi-ml-scaffolding/pull/20) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
+3. ❗️ Closed issue [#17](https://github.com/jmeisele/fastapi-ml-scaffolding/issues/17) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
+4. 🗣 Commented on [#17](https://github.com/jmeisele/fastapi-ml-scaffolding/issues/17) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
+5. 🎉 Merged PR [#14](https://github.com/jmeisele/fastapi-ml-scaffolding/pull/14) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
 <!--END_SECTION:activity-->
