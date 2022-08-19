@@ -83,7 +83,7 @@ I'm a senior machine learning engineer based in Birmingham, AL, USA.
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
 2. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
-3. ❗️ Opened issue [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
-4. 🎉 Merged PR [#21](https://github.com/jmeisele/fastapi-ml-scaffolding/pull/21) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
-5. 💪 Opened PR [#21](https://github.com/jmeisele/fastapi-ml-scaffolding/pull/21) in [jmeisele/fastapi-ml-scaffolding](https://github.com/jmeisele/fastapi-ml-scaffolding)
+3. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
+4. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
+5. ❗️ Opened issue [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
 <!--END_SECTION:activity-->
