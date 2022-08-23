@@ -81,9 +81,9 @@ I'm a senior machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
+1. ❗️ Closed issue [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
 2. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
 3. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
 4. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
-5. ❗️ Opened issue [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
+5. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
 <!--END_SECTION:activity-->
