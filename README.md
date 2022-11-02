@@ -81,9 +81,9 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jmeisele/pytest-action/pull/1) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
-2. 💪 Opened PR [#1](https://github.com/jmeisele/pytest-action/pull/1) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
-3. ❗️ Closed issue [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
-4. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
-5. 🗣 Commented on [#64](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation/issues/64) in [dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation](https://github.com/dynatrace-oss/OneAgent-SDK-Python-AutoInstrumentation)
+1. 🎉 Merged PR [#4](https://github.com/jmeisele/pytest-action/pull/4) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
+2. 💪 Opened PR [#4](https://github.com/jmeisele/pytest-action/pull/4) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
+3. 🎉 Merged PR [#3](https://github.com/jmeisele/pytest-action/pull/3) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
+4. 💪 Opened PR [#3](https://github.com/jmeisele/pytest-action/pull/3) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
+5. 🎉 Merged PR [#2](https://github.com/jmeisele/pytest-action/pull/2) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
 <!--END_SECTION:activity-->
