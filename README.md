@@ -63,11 +63,6 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
 </p>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmeisele&hide=jupyter%20notebook,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmeisele&count_private=true&show_icons=true&theme=dark" />
-</a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jmeisele&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
