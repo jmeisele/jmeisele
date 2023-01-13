@@ -63,10 +63,6 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
 </p>
 <hr>
 
-### I'm currently listening to 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jrxcsv43ijrxtsmkba2gst4su4&cover_image=true&theme=novatorem&bar_color=4b7dbe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmeisele&hide=jupyter%20notebook,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
