@@ -7,8 +7,8 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
 ### 🌱 I’m currently learning
 
 <p align="center">
-    <a href="https://go.dev/">
-      <img src="https://badges.aleen42.com/src/golang.svg">
+    <a href="https://www.rust-lang.org/">
+      <img src="https://rustacean.net/assets/rustacean-flat-gesture.png">
     </a>
 </p>
 
