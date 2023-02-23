@@ -20,6 +20,9 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
     <a href="https://www.python.org/">
       <img src="https://badges.aleen42.com/src/python.svg">
     </a>
+    <a href="https://go.dev/">
+      <img src="https://badges.aleen42.com/src/golang.svg">
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://badges.aleen42.com/src/javascript.svg">
     </a>
