@@ -4,16 +4,6 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
 
 <hr>
 
-### 🌱 I’m currently learning
-
-<p align="center">
-    <a href="https://www.rust-lang.org/">
-      <img src="https://rustacean.net/assets/rustacean-flat-gesture.png">
-    </a>
-</p>
-
-<hr>
-
 ### 🚧 I build with...
 
 <p align="center">
