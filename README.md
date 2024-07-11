@@ -28,6 +28,9 @@ Principal machine learning engineer based in Birmingham, AL, USA.
     <a href="https://reactjs.org/">
       <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
     </a>
+    <a href="https://fastapi.tiangolo.com/">
+      <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white">
+    </a>
 <!--     <a href="https://code.visualstudio.com/">
       <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
     </a> -->
