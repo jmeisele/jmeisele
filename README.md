@@ -31,6 +31,9 @@ Principal machine learning engineer based in Birmingham, AL, USA.
     <a href="https://fastapi.tiangolo.com/">
       <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white">
     </a>
+    <a href="https://www.postgresql.org/">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+    </a>
     <a href="https://www.snowflake.com/en/">
       <img src="https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white">
     </a>
