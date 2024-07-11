@@ -1,6 +1,6 @@
 ### Hi there I'm Jason <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :robot: :coffee: :computer: :tada:
 
-I'm a principal machine learning engineer based in Birmingham, AL, USA.
+Principal machine learning engineer based in Birmingham, AL, USA.
 
 <hr>
 
@@ -8,34 +8,46 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
 
 <p align="center">
     <a href="https://www.python.org/">
-      <img src="https://badges.aleen42.com/src/python.svg">
+      <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+    </a>
+    <a href="https://www.rust-lang.org/">
+      <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white">
+    </a>
+    <a href="https://www.terraform.io/">
+      <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white">
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+      <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white">
     </a>
     <a href="https://go.dev/">
-      <img src="https://badges.aleen42.com/src/golang.svg">
+      <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://badges.aleen42.com/src/javascript.svg">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
     </a>
     <a href="https://reactjs.org/">
-      <img src="https://badges.aleen42.com/src/react.svg">
+      <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
     </a>
-    <a href="https://code.visualstudio.com/">
+<!--     <a href="https://code.visualstudio.com/">
       <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
-    </a>
+    </a> -->
     <a href="https://www.docker.com/">
-      <img src="https://badges.aleen42.com/src/docker.svg">
+      <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
     </a>
-    <a href="https://www.elastic.co/">
-        <img src="https://badges.aleen42.com/src/elasticsearch.svg"
+    <a href="https://aws.amazon.com/">
+      <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white">
+    </a>
+    <a href="https://github.com/features/actions">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"
     </a>
     <a href="https://www.elastic.co/kibana/">
-        <img src="https://badges.aleen42.com/src/kibana.svg"
+        <img src="https://img.shields.io/badge/Kibana-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white"
     </a>
     <a href="https://www.elastic.co/logstash/">
-        <img src="https://badges.aleen42.com/src/logstash.svg"
+        <img src="https://img.shields.io/badge/Logstash-005571.svg?style=for-the-badge&logo=Logstash&logoColor=white"
     </a>
     <a href="https://grafana.com/">
-        <img src="https://badges.aleen42.com/src/grafana.svg"
+        <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"
     </a>
 </p>
 
@@ -45,13 +57,13 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
 
 <p align="center">
   <a href="https://discord.com/">
-    <img src="https://badges.aleen42.com/src/discord.svg">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
   <a href="https://slack.com/">
-    <img src="https://badges.aleen42.com/src/slack.svg">
+    <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white">
   </a>
   <a href="https://store.steampowered.com/">
-    <img src="https://badges.aleen42.com/src/steam.svg">
+    <img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white">
   </a>  
 </p>
 <hr>
@@ -61,13 +73,3 @@ I'm a principal machine learning engineer based in Birmingham, AL, USA.
 </a>
 
 ---
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jmeisele/pytest-action/pull/4) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
-2. 💪 Opened PR [#4](https://github.com/jmeisele/pytest-action/pull/4) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
-3. 🎉 Merged PR [#3](https://github.com/jmeisele/pytest-action/pull/3) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
-4. 💪 Opened PR [#3](https://github.com/jmeisele/pytest-action/pull/3) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
-5. 🎉 Merged PR [#2](https://github.com/jmeisele/pytest-action/pull/2) in [jmeisele/pytest-action](https://github.com/jmeisele/pytest-action)
-<!--END_SECTION:activity-->
