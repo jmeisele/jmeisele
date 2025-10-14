@@ -1,6 +1,6 @@
 ### Hi there I'm Jason <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :robot: :coffee: :computer: :tada:
 
-Principal machine learning engineer based in Birmingham, AL, USA.
+Principal engineer based in Birmingham, AL, USA.
 
 <hr>
 
